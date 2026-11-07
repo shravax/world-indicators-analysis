@@ -2,9 +2,6 @@
 
 End-to-end analysis of **26 World Bank indicators (2016-2024)** across **217 countries**, combining a Python data pipeline with an interactive Power BI dashboard on health, economy, trade, poverty, technology and the environment.
 
-![Dashboard](![Uploading Screenshot 2026-11-07 222246.png…]()
-)
-
 ## Highlights
 
 - **Income is the master variable.** Log GDP per capita correlates 0.87 (Spearman) with life expectancy and 0.88 with internet use.
