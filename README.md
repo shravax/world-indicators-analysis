@@ -85,4 +85,4 @@ Run the notebook top to bottom, then open the `.pbix` file in Power BI Desktop.
 ## Author
 
 **Shravan Aldar**
-T.Y. B.Sc. Data Science and AI, JSPM University, Pune
+Pune
