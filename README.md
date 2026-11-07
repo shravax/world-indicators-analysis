@@ -2,7 +2,8 @@
 
 End-to-end analysis of **26 World Bank indicators (2016-2024)** across **217 countries**, combining a Python data pipeline with an interactive Power BI dashboard on health, economy, trade, poverty, technology and the environment.
 
-![Dashboard](images/dashboard.png)
+![Dashboard](![Uploading Screenshot 2026-11-07 222246.png…]()
+)
 
 ## Highlights
 
